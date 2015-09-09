@@ -1,0 +1,51 @@
+{
+  "SourceFile": "bilder/_DSC0945.JPG",
+  "File": {
+    "FileName": "_DSC0945.JPG",
+    "Directory": "bilder",
+    "FileSize": "3.3 MB",
+    "FileType": "JPEG",
+    "ImageWidth": 3872,
+    "ImageHeight": 2592
+  },
+  "EXIF": {
+    "Make": "SONY",
+    "Model": "DSLR-A330",
+    "Orientation": "Horizontal (normal)",
+    "ModifyDate": 20140614130617,
+    "ExposureTime": "1/125",
+    "FNumber": 7.1,
+    "ExposureProgram": "Aperture-priority AE",
+    "ISO": 100,
+    "CreateDate": 20140614130617,
+    "MeteringMode": "Multi-segment",
+    "Flash": "Off, Did not fire",
+    "FocalLength": "300.0 mm",
+    "ColorSpace": "Uncalibrated",
+    "ExifImageWidth": 3872,
+    "ExifImageHeight": 2592,
+    "FileSource": "Digital Camera",
+    "ExposureMode": "Auto",
+    "WhiteBalance": "Auto"
+  },
+  "MakerNotes": {
+    "ExposureProgram": "Aperture-priority AE",
+    "FocusPosition": 34,
+    "Quality": "RAW + JPEG",
+    "ExposureTime": "1/117",
+    "FNumber": 7.0,
+    "ColorTemperatureSetting": "5500 K",
+    "MeteringMode": "Multi-segment",
+    "FocusMode": "AF-A",
+    "ColorSpace": "Adobe RGB",
+    "WhiteBalance": "Auto",
+    "ColorTemperature": "Auto",
+    "LensType": "Tamron Lens (255)",
+    "ColorMode": "Standard"
+  },
+  "Composite": {
+    "Aperture": 7.1,
+    "FocusDistance": "10.2 m",
+    "ShutterSpeed": "1/125"
+  }
+}

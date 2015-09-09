@@ -1,0 +1,44 @@
+{
+  "SourceFile": "Downloads/21137930965_335ae3b4c7_o.jpg",
+  "ExifTool": {
+    "ExifToolVersion": 9.70,
+    "Warning": "[minor] Empty PrintIM data"
+  },
+  "File": {
+    "FileName": "21137930965_335ae3b4c7_o.jpg",
+    "Directory": "Downloads",
+    "FileSize": "2.4 MB",
+    "FileModifyDate": "2015:09:07 10:18:08+02:00",
+    "FileAccessDate": "2015:09:07 10:18:09+02:00",
+    "FileType": "JPEG",
+    "ImageWidth": 3349,
+    "ImageHeight": 2256
+  },
+  "EXIF": {
+    "SubfileType": "Reduced-resolution image",
+    "ImageDescription": "SONY DSC",
+    "Make": "SONY",
+    "WhitePoint": "0.313 0.329",
+    "PrimaryChromaticities": "0.64 0.33 0.21 0.71 0.15 0.06",
+    "YCbCrCoefficients": "0.299 0.587 0.114",
+    "Rating": 1,
+    "RatingPercent": 20,
+    "ExposureTime": "1/500",
+    "FNumber": 5.6,
+    "ExposureProgram": "Program AE",
+    "ISO": 160
+  },
+  "Composite": {
+    "Aperture": 5.6,
+    "FocusDistance": "inf",
+    "ImageSize": "3349x2256",
+    "LensID": "Tamron AF 70-300mm F4-5.6 Di LD Macro 1:2",
+    "ScaleFactor35efl": 1.5,
+    "ShutterSpeed": "1/500",
+    "CircleOfConfusion": "0.020 mm",
+    "FOV": "4.6 deg",
+    "FocalLength35efl": "300.0 mm (35 mm equivalent: 450.0 mm)",
+    "HyperfocalDistance": "802.33 m",
+    "LightValue": 13.3
+  }
+}
